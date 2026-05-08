@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-radar-chart/static/css/main.3fb84a32.css",
+    "main.js": "/github-radar-chart/static/js/main.f93c8e57.js",
+    "index.html": "/github-radar-chart/index.html",
+    "main.3fb84a32.css.map": "/github-radar-chart/static/css/main.3fb84a32.css.map",
+    "main.f93c8e57.js.map": "/github-radar-chart/static/js/main.f93c8e57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fb84a32.css",
+    "static/js/main.f93c8e57.js"
+  ]
+}
